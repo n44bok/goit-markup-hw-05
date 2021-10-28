@@ -482,7 +482,7 @@ section {
   fill: var(--white-text-color);
 }
 
-.social-list .social-icons:not(:last-child) {
+.social-list .social-block:not(:last-child) {
   margin-right: 10px;
 }
 
